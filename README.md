@@ -1,8 +1,8 @@
 # BIOMOTIVATE PATIENT JOURNEYS
 
-Website: https://shirleyduu.github.io/Pinnacle-Movie-Prints/
+Website: https://shirleyduu.github.io/Patient-Journeys/
 
-Repository link: https://github.com/ShirleyDuu/Pinnacle-Movie-Prints
+Repository link: https://github.com/ShirleyDuu/Patient-Journeys
 
 
 
