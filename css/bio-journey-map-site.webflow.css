@@ -2711,7 +2711,7 @@
     grid-row-gap: 7vh;
     justify-content: flex-start;
     align-items: center;
-    height: 95vh;
+    height: 100vh;
     margin-top: 0;
     margin-bottom: 0;
     padding-top: 5vh;
@@ -2759,8 +2759,8 @@
   }
 
   .image-15.v2.new {
-    width: auto;
-    height: 8vw;
+    width: 17px;
+    height: auto;
   }
 
   .image-15.v0 {
@@ -2781,7 +2781,7 @@
     grid-row-gap: 20vw;
     justify-content: flex-start;
     align-items: center;
-    height: 95vh;
+    height: 100vh;
     margin-top: 0;
     padding-top: 15vw;
     padding-bottom: 5vh;
