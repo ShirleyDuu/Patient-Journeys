@@ -1,5 +1,5 @@
 # BIOMOTIVATE PATIENT JOURNEYS
-# Last Updated Aug 14, 2024
+# Last Updated Aug 24, 2024
 
 Website: https://shirleyduu.github.io/Patient-Journeys/
 
