@@ -2042,6 +2042,14 @@
   color: #ff8f8f;
 }
 
+.bold-text-15 {
+  color: #83baff;
+}
+
+.bold-text-16 {
+  color: #ff8f8f;
+}
+
 @media screen and (min-width: 1440px) {
   .text-block {
     font-size: 50px;
